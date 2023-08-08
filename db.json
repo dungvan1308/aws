@@ -1,30 +1,11 @@
 {
-  "getapi":[
-  {
-    "call_id": 1,
-    "date_received": "01/01/2013",
-    "phonefinal": "308-847-2339",
-    "ser_start": "15:48:53",
-    "ser_time": "0:00:02",
-    "ser_exit": "15:48:55",
-    "client_id": null,
-    "priority": 0,
-    "type": "NW",
-    "outcome": "HANG",
-    "server": "NO_SERVER"
-  },
+  "posts": [
     {
-    "call_id": 1,
-    "date_received": "01/01/2013",
-    "phonefinal": "308-847-2339",
-    "ser_start": "15:48:53",
-    "ser_time": "0:00:02",
-    "ser_exit": "15:48:55",
-    "client_id": null,
-    "priority": 0,
-    "type": "NW",
-    "outcome": "HANG",
-    "server": "NO_SERVER"
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
 }
