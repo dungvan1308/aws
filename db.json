@@ -1,4 +1,5 @@
-[
+{
+  "getapi":[
   {
     "call_id": 1,
     "date_received": "01/01/2013",
@@ -974,3 +975,4 @@
     "outcome": "AGENT",
     "server": "BASCH"
   }]
+}
