@@ -1,11 +1,43 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "getapi": [
+  {
+    "call_id": 1,
+    "date_received": "01/01/2013",
+    "phonefinal": "308-847-2339",
+    "ser_start": "15:48:53",
+    "ser_time": "0:00:02",
+    "ser_exit": "15:48:55",
+    "client_id": null,
+    "priority": 0,
+    "type": "NW",
+    "outcome": "HANG",
+    "server": "NO_SERVER"
+  },
+  {
+    "call_id": 2,
+    "date_received": "03/01/2013",
+    "phonefinal": "568-123-5924",
+    "ser_start": "12:00:06",
+    "ser_time": "0:13:42",
+    "ser_exit": "12:13:48",
+    "client_id": "C00000338",
+    "priority": 2,
+    "type": "PS",
+    "outcome": "AGENT",
+    "server": "MICHAL"
+  },
+  {
+    "call_id": 3,
+    "date_received": "06/01/2013",
+    "phonefinal": "978-188-1804",
+    "ser_start": "10:16:17",
+    "ser_time": "0:00:01",
+    "ser_exit": "10:16:18",
+    "client_id": null,
+    "priority": 2,
+    "type": "PS",
+    "outcome": "HANG",
+    "server": "NO_SERVER"
   }
+  ]
 }
